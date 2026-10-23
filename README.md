@@ -8,14 +8,8 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 
 ## Progress
 
-<!-- PROGRESS:START -->
-| Topic | Problems solved |
-|---|---|
-| Binary-Tree-I | 1 |
-| **Total** | **1** |
-
-Last updated: October 23, 2026
-<!-- PROGRESS:END -->
+<!-- ANKI:START -->
+<!-- ANKI:END -->
 
 ## How I study
 
