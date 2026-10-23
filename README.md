@@ -10,6 +10,7 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 
 <!-- PROGRESS:START -->
 <!-- PROGRESS:END -->
+
 ## How I study
 
 Solving a problem once doesn't mean I know it, so I review with spaced repetition:
