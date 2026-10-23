@@ -8,17 +8,8 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 
 ## Progress
 
-| Topic | Problems solved |
-|---|---|
-| Introduction | [x] |
-| Big-O | [x] |
-| Hashing | [x] |
-| Recursion | [x] |
-| Linked Lists | [x] |
-| Binary Trees | [x] |
-
-Last updated: [month, year]
-
+<!-- PROGRESS:START -->
+<!-- PROGRESS:END -->
 ## How I study
 
 Solving a problem once doesn't mean I know it, so I review with spaced repetition:
