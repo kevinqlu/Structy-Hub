@@ -12,13 +12,13 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 | Topic | Cards | Mature (21d+ interval) | Reviews |
 |---|---|---|---|
 | BigO | 4 | 3 | 36 |
-| BinaryTree | 27 | 2 | 204 |
+| BinaryTree | 27 | 2 | 209 |
 | Hashing | 17 | 9 | 233 |
 | Introduction | 5 | 4 | 71 |
-| LinkedList | 23 | 6 | 361 |
+| LinkedList | 23 | 6 | 363 |
 | Recursion | 7 | 3 | 96 |
 
-1001 total reviews, 90 in the last 7 days. Last review: October 23, 2026.
+1008 total reviews, 26 in the last 7 days. Last review: October 28, 2026.
 <!-- ANKI:END -->
 
 ## How I study
