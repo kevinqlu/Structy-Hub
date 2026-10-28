@@ -39,6 +39,7 @@ Many problems have two solutions, iterative and recursive, or depth-first and br
 - Hashing: reducing a brute-force solution to O(n) with a dictionary or set
 
 ## Notes
+See [Weak-Spot Review](WEAK_SPOTS.md) for my log of problems that resist spaced repetition.
 
 Problem statements and tests belong to Structy, so this repo contains only my own solutions. Go to [structy.net](https://structy.net) to see the problems.
 
