@@ -8,6 +8,13 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 
 ## Progress
 
+### Solutions
+
+<!-- SOLUTIONS:START -->
+<!-- SOLUTIONS:END -->
+
+### Review (Anki)
+
 <!-- ANKI:START -->
 | Topic | Cards | Mature (21d+ interval) | Reviews |
 |---|---|---|---|
@@ -21,27 +28,30 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 1012 total reviews, 30 in the last 7 days. Last review: October 28, 2026.
 <!-- ANKI:END -->
 
+Solving a problem once doesn't mean I know it. The first table counts what I've solved; the second shows how much of it has stuck.
+
 ## How I study
 
-Solving a problem once doesn't mean I know it, so I review with spaced repetition:
+I review with spaced repetition:
 
 1. Each problem has an Anki card that links straight to the Structy problem.
 2. I solve the problem from scratch without notes.
 3. I rate the card honestly: Again, Hard, Good, or Easy. If I needed a hint, I don't rate it Good.
-4. Problems I keep failing are tagged as leeches. I trace those by hand on paper before I try again.
+4. Problems I keep failing get tagged as leeches. For those, I run a weak-spot session: cold attempt, trace by hand with a real input, write one sentence on exactly where my thinking broke, then redo it cold the next day. Results are logged in [WEAK_SPOTS.md](WEAK_SPOTS.md).
 
 Many problems have two solutions, iterative and recursive, or depth-first and breadth-first. I keep both, because the interview question is often "now do it the other way."
 
 ## Patterns I'm working on
 
-- Linked lists: tracking the current node and what comes next while reversing, and remembering to attach leftover nodes when merging or zipping lists
-- Trees: choosing between depth-first and breadth-first, and writing each one iteratively and recursively
-- Hashing: reducing a brute-force solution to O(n) with a dictionary or set
+- **Linked lists:** tracking the current node and what comes next while reversing, and remembering to attach leftover nodes when merging or zipping lists
+- **Trees:** choosing between depth-first and breadth-first, and writing each one iteratively and recursively
+- **Hashing:** reducing a brute-force solution to O(n) with a dictionary or set
 
 ## Notes
-See [Weak-Spot Review](WEAK_SPOTS.md) for my log of problems that resist spaced repetition.
 
 Problem statements and tests belong to Structy, so this repo contains only my own solutions. Go to [structy.net](https://structy.net) to see the problems.
+
+The tables above are generated: the Solutions table by `update_readme.py`, the Anki table by `anki_progress.py`. Don't edit inside the marker comments by hand.
 
 ---
 Made with [StructyHub](https://github.com/cbkinase/StructyHub)
