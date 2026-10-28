@@ -11,6 +11,14 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 ### Solutions
 
 <!-- SOLUTIONS:START -->
+| Topic | Problems solved |
+|---|---|
+| Beginner-Recursion | 1 |
+| Big-O-Notation | 1 |
+| Binary-Tree-I | 5 |
+| Introduction | 1 |
+| Linked-List-I | 3 |
+| **Total** | **11** |
 <!-- SOLUTIONS:END -->
 
 ### Review (Anki)
