@@ -26,14 +26,14 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 <!-- ANKI:START -->
 | Topic | Cards | Mature (21d+ interval) | Reviews |
 |---|---|---|---|
-| BigO | 4 | 3 | 37 |
-| BinaryTree | 27 | 2 | 210 |
+| BigO | 4 | 3 | 38 |
+| BinaryTree | 27 | 2 | 214 |
 | Hashing | 17 | 9 | 233 |
-| Introduction | 5 | 4 | 72 |
-| LinkedList | 23 | 6 | 363 |
-| Recursion | 7 | 4 | 97 |
+| Introduction | 5 | 4 | 73 |
+| LinkedList | 23 | 6 | 365 |
+| Recursion | 7 | 4 | 98 |
 
-1012 total reviews, 30 in the last 7 days. Last review: October 28, 2026.
+1021 total reviews, 31 in the last 7 days. Last review: October 28, 2026.
 <!-- ANKI:END -->
 
 Solving a problem once doesn't mean I know it. The first table counts what I've solved; the second shows how much of it has stuck.
