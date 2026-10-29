@@ -10,6 +10,8 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 
 ### Solutions
 
+> This repo was started a few months into my Structy course. "Before repo" counts coding problems I solved before the repo existed, so they have no commit history here. "In repo" counts solutions committed since. I've also completed 10 multiple-choice and quiz items, which aren't tracked here.
+
 <!-- SOLUTIONS:START -->
 | Topic | In repo | Before repo | Total |
 |---|---|---|---|
