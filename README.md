@@ -11,14 +11,15 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 ### Solutions
 
 <!-- SOLUTIONS:START -->
-| Topic | Problems solved |
-|---|---|
-| Beginner-Recursion | 1 |
-| Big-O-Notation | 1 |
-| Binary-Tree-I | 5 |
-| Introduction | 1 |
-| Linked-List-I | 3 |
-| **Total** | **11** |
+| Topic | In repo | Before repo | Total |
+|---|---|---|---|
+| BigO | 1 | 1 | 2 |
+| BinaryTree | 5 | 9 | 14 |
+| Hashing | 0 | 8 | 8 |
+| Introduction | 1 | 4 | 5 |
+| LinkedList | 3 | 8 | 11 |
+| Recursion | 1 | 5 | 6 |
+| **Total** | **11** | **35** | **46** |
 <!-- SOLUTIONS:END -->
 
 ### Review (Anki)
