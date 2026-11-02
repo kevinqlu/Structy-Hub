@@ -20,8 +20,8 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 | Hashing | 1 | 8 | 9 |
 | Introduction | 1 | 4 | 5 |
 | LinkedList | 4 | 8 | 12 |
-| Recursion | 1 | 5 | 6 |
-| **Total** | **14** | **35** | **49** |
+| Recursion | 2 | 5 | 7 |
+| **Total** | **15** | **35** | **50** |
 <!-- SOLUTIONS:END -->
 
 ### Review (Anki)
