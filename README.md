@@ -19,9 +19,9 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 | BinaryTree | 6 | 9 | 15 |
 | Hashing | 1 | 8 | 9 |
 | Introduction | 1 | 4 | 5 |
-| LinkedList | 4 | 8 | 12 |
+| LinkedList | 5 | 8 | 13 |
 | Recursion | 2 | 5 | 7 |
-| **Total** | **15** | **35** | **50** |
+| **Total** | **16** | **35** | **51** |
 <!-- SOLUTIONS:END -->
 
 ### Review (Anki)
