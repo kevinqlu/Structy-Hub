@@ -16,12 +16,12 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 | Topic | In repo | Before repo | Total |
 |---|---|---|---|
 | BigO | 1 | 1 | 2 |
-| BinaryTree | 6 | 9 | 15 |
+| BinaryTree | 7 | 9 | 16 |
 | Hashing | 1 | 8 | 9 |
 | Introduction | 1 | 4 | 5 |
 | LinkedList | 5 | 8 | 13 |
 | Recursion | 2 | 5 | 7 |
-| **Total** | **16** | **35** | **51** |
+| **Total** | **17** | **35** | **52** |
 <!-- SOLUTIONS:END -->
 
 ### Review (Anki)
