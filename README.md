@@ -30,13 +30,13 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 | Topic | Cards | Mature (21d+ interval) | Reviews |
 |---|---|---|---|
 | BigO | 4 | 3 | 38 |
-| BinaryTree | 27 | 2 | 221 |
+| BinaryTree | 27 | 3 | 223 |
 | Hashing | 17 | 9 | 236 |
-| Introduction | 5 | 4 | 73 |
-| LinkedList | 23 | 6 | 370 |
+| Introduction | 5 | 4 | 74 |
+| LinkedList | 23 | 6 | 371 |
 | Recursion | 7 | 5 | 99 |
 
-1037 total reviews, 11 in the last 7 days. Last review: November 02, 2026.
+1041 total reviews, 11 in the last 7 days. Last review: November 05, 2026.
 <!-- ANKI:END -->
 
 Solving a problem once doesn't mean I know it. The first table counts what I've solved; the second shows how much of it has stuck.
