@@ -3,26 +3,26 @@
 #     self.val = val
 #     self.left = None
 #     self.right = None
-from collections import deque
-def tree_value_count(root, target):
 
+def tree_value_count(root, target):
   if root is None:
-    return 0 
+    return 0
+
+  stack = [root]
 
   count = 0
 
-  queue = deque([root])
+  while stack:
+    node = stack.pop()
 
-  while queue:
-    node = queue.popleft()
-
-    if root.val == target:
+    if node.val == target:
       count += 1
 
-    if node.left is not None:
-      queue.append(node.left)
-
     if node.right is not None:
-      queue.append(node.right)
+      stack.append(node.right)
+    
+    if node.left is not None:
+      stack.append(node.left, target)
+  return count 
 
-  return count
+  
