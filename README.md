@@ -17,11 +17,11 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 |---|---|---|---|
 | BigO | 1 | 1 | 2 |
 | BinaryTree | 8 | 9 | 17 |
-| Hashing | 1 | 8 | 9 |
+| Hashing | 2 | 8 | 10 |
 | Introduction | 1 | 4 | 5 |
 | LinkedList | 8 | 8 | 16 |
 | Recursion | 2 | 5 | 7 |
-| **Total** | **21** | **35** | **56** |
+| **Total** | **22** | **35** | **57** |
 <!-- SOLUTIONS:END -->
 
 ### Review (Anki)
