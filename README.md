@@ -31,12 +31,12 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 |---|---|---|---|
 | BigO | 4 | 3 | 38 |
 | BinaryTree | 27 | 5 | 235 |
-| Hashing | 17 | 10 | 240 |
+| Hashing | 17 | 10 | 242 |
 | Introduction | 5 | 4 | 74 |
-| LinkedList | 23 | 6 | 377 |
+| LinkedList | 23 | 5 | 379 |
 | Recursion | 7 | 5 | 99 |
 
-1063 total reviews, 2 in the last 7 days. Last review: November 21, 2026.
+1067 total reviews, 6 in the last 7 days. Last review: November 23, 2026.
 <!-- ANKI:END -->
 
 Solving a problem once doesn't mean I know it. The first table counts what I've solved; the second shows how much of it has stuck.
