@@ -4,7 +4,9 @@
 #     self.next = None
 
 def sum_list(head):
-  if head is None:
-    return 0 
+  curr = head 
 
-  
+  total = 0
+
+  while curr:
+    
