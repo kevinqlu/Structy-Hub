@@ -36,7 +36,7 @@ I'm preparing for software engineering interviews. I finished a B.S. in Computer
 | LinkedList | 23 | 5 | 381 |
 | Recursion | 7 | 5 | 99 |
 
-1072 total reviews, 11 in the last 7 days. Last review: November 26, 2026.
+1072 total reviews, 9 in the last 7 days. Last review: November 26, 2026.
 <!-- ANKI:END -->
 
 Solving a problem once doesn't mean I know it. The first table counts what I've solved; the second shows how much of it has stuck.
